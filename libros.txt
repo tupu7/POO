@@ -1,0 +1,2 @@
+ID_Libro,Titulo,ISBN,AnoPublicacion,ID_Autor,Disponible
+1,edwin y los tres mosqueteros,978-342-68-387623-8,564,1,1
