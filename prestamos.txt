@@ -1,0 +1,2 @@
+ID_Prestamo,ID_Libro,ID_Estudiante,FechaPrestamo,FechaDevolucion
+1,1,5,2025-10-1,2025-10-1
